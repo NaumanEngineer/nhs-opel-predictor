@@ -272,9 +272,9 @@ This project was completed as part of an 18-month NHS Health & Care AI Roadmap. 
 
 ## 📞 Contact
 
-**Author:** [Your Name]
-**LinkedIn:** [Your LinkedIn]
-**Email:** [Your Email]
+**Author:** Nauman Ismail Khan
+**LinkedIn:** https://www.linkedin.com/in/nauman-khan-844969265/
+**Email:**naumanismailkhan902@gmail.com
 
 ---
 
